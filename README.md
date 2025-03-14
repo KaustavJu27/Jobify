@@ -1,6 +1,7 @@
 # Jobify - Find Your Dream Job
+![Screenshot 2025-03-14 223255](https://github.com/user-attachments/assets/51acc7d7-fd0f-43d7-8b29-2dcb960f8b45)
 
-![Jobify Banner](https://via.placeholder.com/1200x400) <!-- Add a banner image if available -->
+<!-- Add a banner image if available -->
 
 Jobify is a modern job search platform that allows users to search for jobs, browse popular job categories, and view featured job listings. The platform is built with **HTML**, **CSS**, and **JavaScript**, and it features a responsive design, dynamic job filtering, and a clean user interface.
 
@@ -25,13 +26,12 @@ Check out the live demo of the project: [Jobify Live Demo](https://your-demo-lin
 ## Screenshots
 
 ### Home Page
-![Home Page](https://via.placeholder.com/600x400) <!-- Add a screenshot of the home page -->
-
-### Job Search
-![Job Search](https://via.placeholder.com/600x400) <!-- Add a screenshot of the search functionality -->
+<!-- Add a screenshot of the home page -->
+![Screenshot 2025-03-14 222622](https://github.com/user-attachments/assets/5c39e0a4-efc8-49aa-9dc0-0763ce05828d)
 
 ### Job Categories
-![Job Categories](https://via.placeholder.com/600x400) <!-- Add a screenshot of the categories section -->
+<!-- Add a screenshot of the categories section -->
+![Screenshot 2025-03-14 223023](https://github.com/user-attachments/assets/e93efcc2-1229-4029-9c28-b244c93f0439)
 
 ---
 
@@ -46,10 +46,10 @@ Check out the live demo of the project: [Jobify Live Demo](https://your-demo-lin
 
 ---
 
-## Setup and Installation
+<!--## Setup and Installation
 
 Follow these steps to set up the project locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/jobify.git
+   git clone https://github.com/your-username/jobify.git -->
