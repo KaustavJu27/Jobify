@@ -19,7 +19,7 @@ Jobify is a modern job search platform that allows users to search for jobs, bro
 
 ## Live Demo
 
-Check out the live demo of the project: [Jobify Live Demo](https://your-demo-link.com) <!-- Replace with your actual demo link -->
+Check out the live demo of the project: [Jobify Live Demo](https://jobify-kaustav-mondal-ju-it.netlify.app/) <!-- Replace with your actual demo link -->
 
 ---
 
