@@ -1,12 +1,52 @@
-# React + Vite
+<h1 align="center">🎯 Jobify – Your Gateway to Dream Jobs 💼</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  🚀 A modern, elegant, and responsive job listing platform made with <b>HTML + CSS + JavaScript</b>.
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🌟 Overview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Jobify** is a sleek and interactive **job listing web app** where job seekers can browse thousands of job opportunities, filter positions, and explore categories — all with a visually appealing and easy-to-use design.  
+Whether you’re a developer, designer, data scientist, or marketer — Jobify has got you covered!  
+
+---
+
+## ✨ Features
+
+✅ **Beautiful UI** with vibrant gradients and smooth animations  
+✅ **Responsive design** – works perfectly on desktop, tablet, and mobile  
+✅ **Dynamic job cards** populated from JavaScript data  
+✅ **Category-based filtering** for quick exploration  
+✅ **Clean typography and modern color schemes**  
+✅ **Easy to customize** for your own job portal  
+
+---
+
+## 📸 Screenshots
+
+| 🏠 Home Page | 📂 Job Categories | 💼 Job Listings |
+|-------------|------------------|----------------|
+| ![Home](https://via.placeholder.com/250x150?text=Home) | ![Categories](https://via.placeholder.com/250x150?text=Categories) | ![Jobs](https://via.placeholder.com/250x150?text=Jobs) |
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| **HTML5** | Structure of the application |
+| **CSS3** | Styling & responsive design |
+| **JavaScript (Vanilla)** | Dynamic DOM manipulation & job data rendering |
+
+---
+
+## 📂 Project Structure
+
