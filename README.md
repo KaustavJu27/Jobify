@@ -32,13 +32,13 @@ Whether you’re a developer, designer, data scientist, or marketer — Jobify h
 
 ## 📸 Screenshots:
 
-| 🏠 Home Page :
+ 🏠 Home Page :
   <img width="1892" height="673" alt="image" src="https://github.com/user-attachments/assets/b0d46b01-4dd4-4343-b6ff-c262120837e6" />
 
-| 📂 Job Categories :
+ 📂 Job Categories :
   <img width="1893" height="914" alt="image" src="https://github.com/user-attachments/assets/0b5136bb-98c4-4586-b33f-4d9ba3c7308b" />
 
-| 💼 Job Listings :
+ 💼 Job Listings :
   <img width="1761" height="898" alt="image" src="https://github.com/user-attachments/assets/bfc33776-83c3-47ba-ac5f-e2f4430d807a" />
 
 
