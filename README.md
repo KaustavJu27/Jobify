@@ -34,7 +34,8 @@ Whether you’re a developer, designer, data scientist, or marketer — Jobify h
 
 | 🏠 Home Page | 📂 Job Categories | 💼 Job Listings |
 |-------------|------------------|----------------|
-| ![Home](https://via.placeholder.com/250x150?text=Home) | ![Categories](https://via.placeholder.com/250x150?text=Categories) | ![Jobs](https://via.placeholder.com/250x150?text=Jobs) |
+| ![Home](<img width="1892" height="673" alt="image" src="https://github.com/user-attachments/assets/b0d46b01-4dd4-4343-b6ff-c262120837e6" />
+) | ![Categories](https://via.placeholder.com/250x150?text=Categories) | ![Jobs](https://via.placeholder.com/250x150?text=Jobs) |
 
 ---
 
