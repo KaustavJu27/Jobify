@@ -56,10 +56,10 @@ Whether you’re a developer, designer, data scientist, or marketer — Jobify h
 
 ## 📂 Project Structure:
 Jobify/
-│── index.html # Main HTML structure
-│── styles.css # All styling and animations
-│── script.js # Job data & interactivity
-│── assets/ # (Optional) Images, icons, etc.
+│── index.html      # Main HTML structure
+│── styles.css      # All styling and animations
+│── script.js       # Job data & interactivity
+│── assets/         # (Optional) Images, icons, etc.
 
 ---
 
