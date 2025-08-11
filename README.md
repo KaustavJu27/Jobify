@@ -32,12 +32,15 @@ Whether you’re a developer, designer, data scientist, or marketer — Jobify h
 
 ## 📸 Screenshots:
 
-| 🏠 Home Page | 📂 Job Categories | 💼 Job Listings |
-|-------------|------------------|----------------|
-| (<img width="1892" height="673" alt="image" src="https://github.com/user-attachments/assets/b0d46b01-4dd4-4343-b6ff-c262120837e6" />
-) | <img width="1893" height="914" alt="image" src="https://github.com/user-attachments/assets/0b5136bb-98c4-4586-b33f-4d9ba3c7308b" />
- | <img width="1761" height="898" alt="image" src="https://github.com/user-attachments/assets/bfc33776-83c3-47ba-ac5f-e2f4430d807a" />
- |
+| 🏠 Home Page :
+  <img width="1892" height="673" alt="image" src="https://github.com/user-attachments/assets/b0d46b01-4dd4-4343-b6ff-c262120837e6" />
+
+| 📂 Job Categories :
+  <img width="1893" height="914" alt="image" src="https://github.com/user-attachments/assets/0b5136bb-98c4-4586-b33f-4d9ba3c7308b" />
+
+| 💼 Job Listings :
+  <img width="1761" height="898" alt="image" src="https://github.com/user-attachments/assets/bfc33776-83c3-47ba-ac5f-e2f4430d807a" />
+
 
 ---
 
@@ -80,10 +83,10 @@ Just open `index.html` in any browser — no build tools needed! 🎉
 
 | Color Name   | Hex Code | Preview |
 |--------------|----------|---------|
-| Primary      | `#6366F1` | ![#6366F1](https://via.placeholder.com/20/6366F1?text=+) |
-| Secondary    | `#10B981` | ![#10B981](https://via.placeholder.com/20/10B981?text=+) |
-| Accent       | `#F59E0B` | ![#F59E0B](https://via.placeholder.com/20/F59E0B?text=+) |
-| Tertiary     | `#EC4899` | ![#EC4899](https://via.placeholder.com/20/EC4899?text=+) |
+| Primary      | `#6366F1` |<img width="102" height="94" alt="image" src="https://github.com/user-attachments/assets/4a30d838-4787-41c5-8183-b0ab37c16f0e" /> |
+| Secondary    | `#10B981` | <img width="90" height="78" alt="image" src="https://github.com/user-attachments/assets/38c88810-aeec-4d90-9063-4c9a5794ca04" /> |
+| Accent       | `#F59E0B` | <img width="90" height="83" alt="image" src="https://github.com/user-attachments/assets/2824e8d7-f31c-4d88-8da6-be9cb3425b22" /> |
+| Tertiary     | `#EC4899` | <img width="91" height="91" alt="image" src="https://github.com/user-attachments/assets/6004c230-01d4-4391-8418-d4b888edd686" /> |
 
 ---
 
@@ -109,7 +112,7 @@ This project is **MIT Licensed** – feel free to use it for your own job portal
 
 ---
 
-<p align="center">Made with ❤️ by [Your Name]</p>
+<p align="center">Made with ❤️ by [Kaustav Mondal]</p>
 
 
 
