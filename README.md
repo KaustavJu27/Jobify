@@ -1,55 +1,12 @@
-# Jobify - Find Your Dream Job
-![Screenshot 2025-03-14 223255](https://github.com/user-attachments/assets/51acc7d7-fd0f-43d7-8b29-2dcb960f8b45)
+# React + Vite
 
-<!-- Add a banner image if available -->
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Jobify is a modern job search platform that allows users to search for jobs, browse popular job categories, and view featured job listings. The platform is built with **HTML**, **CSS**, and **JavaScript**, and it features a responsive design, dynamic job filtering, and a clean user interface.
+Currently, two official plugins are available:
 
----
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Features
+## Expanding the ESLint configuration
 
-- **Search Jobs**: Search for jobs by keyword and location.
-- **Popular Categories**: Browse jobs by category (e.g., Technology, Marketing, Design).
-- **Featured Jobs**: View premium job listings from top companies.
-- **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices.
-- **Dynamic Filtering**: Filter jobs by category, job type, and experience level.
-
----
-
-## Live Demo
-
-Check out the live demo of the project: [Jobify Live Demo](https://jobify-kaustav-mondal-ju-it.netlify.app/) <!-- Replace with your actual demo link -->
-
----
-
-## Screenshots
-
-### Home Page
-<!-- Add a screenshot of the home page -->
-![Screenshot 2025-03-14 222622](https://github.com/user-attachments/assets/5c39e0a4-efc8-49aa-9dc0-0763ce05828d)
-
-### Job Categories
-<!-- Add a screenshot of the categories section -->
-![Screenshot 2025-03-14 223023](https://github.com/user-attachments/assets/e93efcc2-1229-4029-9c28-b244c93f0439)
-
----
-
-## Technologies Used
-
-- **Frontend**:
-  - HTML5
-  - CSS3 (Flexbox, Grid, CSS Variables)
-  - JavaScript (ES6)
-- **Icons**: [FontAwesome](https://fontawesome.com/)
-- **Hosting**: GitHub Pages (or any other hosting service)
-
----
-
-<!--## Setup and Installation
-
-Follow these steps to set up the project locally:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/jobify.git -->
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
